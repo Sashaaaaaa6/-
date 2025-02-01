@@ -1,0 +1,10 @@
+.nav-ul {
+  display: flex;
+  list-style: none;
+  font-family: "Montserrat";
+}
+.nav-a {
+  margin-right: 210px;
+  margin-left: 210px;
+  color: dodgerblue;
+}
