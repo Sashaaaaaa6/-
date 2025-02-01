@@ -2,9 +2,72 @@
   display: flex;
   list-style: none;
   font-family: "Montserrat";
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 .nav-a {
-  margin-right: 210px;
-  margin-left: 210px;
+  margin-right: 500px;
   color: dodgerblue;
+}
+container {
+  width: 1230px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.qwe {
+  display: flex;
+}
+.future-h1 {
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 30px;
+  color: dodgerblue;
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+.future-p {
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 20px;
+  padding-bottom: 50px;
+}
+.maybutnie-ul {
+  display: flex;
+  list-style: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Montserrat";
+  font-size: 20px;
+}
+.maybutnie-li {
+  margin-right: 30px;
+}
+.maybutnie-ll1 {
+  color: dodgerblue;
+}
+.aa {
+  text-align: center;
+  font-family: "Montserrat";
+  font-size: 30px;
+  color: dodgerblue;
+}
+.photo-ul {
+  display: flex;
+  list-style: none;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.photo-img {
+  width: 270px;
+  height: 260px;
+  margin-left: 170px;
+}
+.footer-p {
+  display: block;
+  font-family: "Montserrat";
+  font-size: 30px;
+  color: dodgerblue;
+  font-weight: 700;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
